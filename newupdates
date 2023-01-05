@@ -1,26 +1,40 @@
-Maze Bank Arena (Postal 863)
-The Maze Bank Arena now features an open interior that features a variety of events from Demolition Derbys, paintball, ufc, boxing, and more! Currently, inside is the demolition derby version and every few weeks it will change.
+**Dynamic Island**
+- Implemented the iPhone 14 Pro Inspired Dynamic island.
+- Music & calling is using the island as of right now, more apps are going to be integrated in the future.
+- Note that this is a beta feature and bugs may occur.
 
-LS Mechanic Shop with Working Lifts (Postal 768)
-We have added a new mechanic shop that features a main level & basement, working lifts, and power washers!
+**Voice Messages**
+- Implemented voice messages, click to record and talk in game while pressing your push to talk button.
 
-Mirror Park Christmas Revamp (Postal 574)
-Mirror park now features a variety of Christmas-themed decorations, houses, and much more at the lake! 
+**Notifications**
+- Increased the maximum length on notifications from 25 to 75
+- Notifications can now have a higher height.
+- App specific notifications, you can set different sounds for different apps, check the docs for more info.
+- Re-defined how ringtones were defined.
 
-Power Washers
-Functional power washers are now in-game that allow you to clear cars! These can be found at most mechanic shops, and more will be added soon.
+**Instagram**
+- Instagram Stories, Upload multiple images / videos to your story, and watch others!
+- You can now click on a user in any comment feed to go to their profile
+- Improved scrolling
+- Fixed a bug where the "Liked By" page wouldn't work.
+- Instagram logo in dark-mode on the Sign-in screen now looks better.
+- Fixed the formatting of phone numbers in DM.
 
-Cayo Perico Revamp
-Cayo Perico's mansion will now have functional doors making it open to cars & players. This will primarily be for gangs as they can now fight for it.
+**Twitter**
+- Fixed the location of the Twitter sign out button on other locales.
+- Fixed a bug that would cause the timestamp to be wrong when the server and client time isn't synced when sending a new tweet.
+- You can now pin tweets to your profile, by pressing the 3 dots and choosing "Pin"`
+- You can no longer dm yourself.
+- UI Improvements
 
-Sandy Shores Biker Club (Postal 317)
-We have added a public biker club map outside Sandy Shores to give players & other biker-related groups more roleplay.
+**Maps:**
+- Updated maps, you can now save locations and manage them in the maps app.
 
-Paleto Fire Station (Postal 046) & Paleto Mechanic Shop (Postal 041)
-After many suggestions, we have added an interior for the Paleto Fire Station for SAFR. Paleto now features a brand-new mechanic shop with working lifts & power washers!
+**Appstore**
+- Appstore has been rewritten completely.
+- No more bugs with double apps, flickering buttons etc should appear.
 
-Optimization & Map Removals
-- Removed the legion McDonalds to increase FPS and remove congestion in legion.
-- Removed the Sandy Mechanic shop that was located at postal 251.
-- Removed the Auto Yard shop & mechanic garage located at 768 to make room for the 2 new mechanic shops.
-- Optimized maps giving players higher FPS in-game.
+**Bug Fixes:**
+- Fixed a bug where swiping between images in the Marketplace & Instagram app would cause weird movement & in some situations crash the phone.
+- When flipping the camera to selfie, and then changing to video, the camera will no longer be offsetted.
+- Minor UI improvements.
