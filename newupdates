@@ -1,3 +1,6 @@
+Revamped Emotes
+- The F3 emotes menu has been revamped with a new logo and 105+ new animations.
+
 Caching
 - We're now using cache within the UI, meaning the amount of server events / callbacks will be reduced by at least 90%.
 - This is something we'll keep on using & implementing on other places as time goes by. 
@@ -27,5 +30,3 @@ Other
 - New Animation when opening apps, they'll now open from the app location.
 - Fixed a bug that would cause the phone not going to the lock screen when closing it.
 - Other optimizations & tweaks.
-Revamped Emotes
-- The F3 emotes menu has been revamped with a new logo and 105+ new animations.
