@@ -1,40 +1,31 @@
-**Dynamic Island**
-- Implemented the iPhone 14 Pro Inspired Dynamic island.
-- Music & calling is using the island as of right now, more apps are going to be integrated in the future.
-- Note that this is a beta feature and bugs may occur.
+Caching
+- We're now using cache within the UI, meaning the amount of server events / callbacks will be reduced by at least 90%.
+- This is something we'll keep on using & implementing on other places as time goes by. 
 
-**Voice Messages**
-- Implemented voice messages, click to record and talk in game while pressing your push to talk button.
+State System
+- Most of the Phone UI Functionality has been re-written to make it more optimized, you should be able to realize a big difference on the UI performance now, and it should be even smoother than before!
 
-**Notifications**
-- Increased the maximum length on notifications from 25 to 75
-- Notifications can now have a higher height.
-- App specific notifications, you can set different sounds for different apps, check the docs for more info.
-- Re-defined how ringtones were defined.
+Input
+- Re-wrote the input system, you should now be able to use text fields etc again without having those keys being active in the game, way more accurate then before too.
 
-**Instagram**
-- Instagram Stories, Upload multiple images / videos to your story, and watch others!
-- You can now click on a user in any comment feed to go to their profile
-- Improved scrolling
-- Fixed a bug where the "Liked By" page wouldn't work.
-- Instagram logo in dark-mode on the Sign-in screen now looks better.
-- Fixed the formatting of phone numbers in DM.
+Instagram
+- Fixed a rare bug that would need reopening the Instagram app in order to edit your profile. 
+- Fixed a bug that would cause a 0 to appear on profiles when they had no story.
 
-**Twitter**
-- Fixed the location of the Twitter sign out button on other locales.
-- Fixed a bug that would cause the timestamp to be wrong when the server and client time isn't synced when sending a new tweet.
-- You can now pin tweets to your profile, by pressing the 3 dots and choosing "Pin"`
-- You can no longer dm yourself.
-- UI Improvements
+Camera
+-  Flipping to selfie camera in a vehicle now works.
 
-**Maps:**
-- Updated maps, you can now save locations and manage them in the maps app.
+Twitter
+- You can now unpin tweets!
 
-**Appstore**
-- Appstore has been rewritten completely.
-- No more bugs with double apps, flickering buttons etc should appear.
+Screenshots
+- Taking screenshots now works again, broke after last update.
 
-**Bug Fixes:**
-- Fixed a bug where swiping between images in the Marketplace & Instagram app would cause weird movement & in some situations crash the phone.
-- When flipping the camera to selfie, and then changing to video, the camera will no longer be offsetted.
-- Minor UI improvements.
+Other
+- Fixed a bug that would cause notifications to be blurry
+- Improved UI in the Settings app.
+- New Animation when opening apps, they'll now open from the app location.
+- Fixed a bug that would cause the phone not going to the lock screen when closing it.
+- Other optimizations & tweaks.
+Revamped Emotes
+- The F3 emotes menu has been revamped with a new logo and 105+ new animations.
