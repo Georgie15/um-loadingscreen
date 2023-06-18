@@ -11,7 +11,7 @@ Two new gang locations have been added in-game! At postal 707, a white widow dru
 After many requests, we have finally added prompts to unzip and remove the bag over a player's head. Simply walk near a player that is either zip-tied or has a bag over their head to view the prompts.
 
 - Revamped Cuff & Drag Functions
-For our @PSRP | Whitelisted LEO, the cuff & drag functions have been revamped. Cuffing is now more accurate, no longer bugs out and has been patched so that civilians can no longer cuff via an exploit. Along with this, our dragging has been improved making it much more accurate when attempting to drag a player.
+For our Whitelisted LEO, the cuff & drag functions have been revamped. Cuffing is now more accurate, no longer bugs out and has been patched so that civilians can no longer cuff via an exploit. Along with this, our dragging has been improved making it much more accurate when attempting to drag a player.
 
 - Misc Bug Fixes
 The HUD time will no longer get stuck at 0:00; has now been fixed to perform correctly.
