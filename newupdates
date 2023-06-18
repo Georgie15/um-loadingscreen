@@ -1,26 +1,21 @@
-- F9 Vehicle Spawner Revamp
-The F9 vehicle spawner menu now features a new interface! This new interface fixes the issue where you would open a category and a completely different one would display. This new UI will soon be featured in our /keys menu.
+- Grove Street Revamp
+For the first time ever, PSRP now features custom interiors for grove street! Nearly every house at the bottom of grove street features a custom interior and each house has underground tunnels that lead to a secret area along with an escape path. Grove street will remain without a safe zone per a community vote in our gangs discord.
 
-- Spawn Selector Locations
-The spawn selector now features brand new locations! After nearly 6+ months, we have brought new locations now including a Paleto Bay spawn point.
+- New Wheel Options
+We have added over 100+ custom wheel options! Simply go into the F1 vehicle mods, change the wheel type to high end and towards the end of that category, custom wheel options will appear.
 
-- Traction Control
-You can now disable the traction control on any vehicle by typing **/tc** in chat. This will allow your vehicle to drift much better at lower speeds. 
+- New Gang Locations
+Two new gang locations have been added in-game! At postal 707, a white widow drug store has been added for gangs and civilians to roleplay. Also, a taco shop called Taco Libre has been added at postal 697 featuring a secret meth lab. Note that these locations are primarily for gangs so unwanted civilians messing around are subject to KOS.
 
-- Door Chime
-A brand new door chime sound has been added. The new sound now features a 2020+ ford chime. The volume on this chime will be increased next server restart.
+- Un-Zip and Unbag Prompts
+After many requests, we have finally added prompts to unzip and remove the bag over a player's head. Simply walk near a player that is either zip-tied or has a bag over their head to view the prompts.
 
-- Pitstop Garage Removal
-The pitstop garage located in Los Santos has been removed. This area was under-utilized and caused FPS drops when near it.
+- Revamped Cuff & Drag Functions
+For our @PSRP | Whitelisted LEO, the cuff & drag functions have been revamped. Cuffing is now more accurate, no longer bugs out and has been patched so that civilians can no longer cuff via an exploit. Along with this, our dragging has been improved making it much more accurate when attempting to drag a player.
 
-- Tactical Weapons Pack #2 Release
-After a huge success with our 1st Tactical Weapons Pack, the Tactical Weapons Pack #2 is now out! This pack features 7 CUSTOM WEAPONS with LOW RECOIL, HIGH DAMAGE AND MODIFICATIONS. This pack now features a shotgun for the 1st time giving players an edge in combat. Head over to our store today to pick up this exclusive package!
-
-- LEO F150
-The LEO in PSRP have just gotten a new F150 added to the fleet!
-
-- NEW Interiors
-Now in-game, a revamped Yellow Jack, IceBox interior and school interior have been added.
-
-- NEW Cayo Bridge
-A new cayo bridge has been added. This new bridge features two lanes, speed sticks that will slow your vehicle on each end, and is now featured on the map! 
+- Misc Bug Fixes
+The HUD time will no longer get stuck at 0:00; has now been fixed to perform correctly.
+Attempting to /carry while dead is now disabled, must be alive to carry.
+Carbine Rifle is no longer restricted for Certified Civilians
+Trump trucks no longer weigh 14,000 pounds
+If stuck in ragdoll, a prompt will appear with a keybind to get out of ragdoll
