@@ -1,20 +1,28 @@
-- Speed Enforcement Revamp
-We now have 3 new speed enforcement vehicles that feature liveries for every department, custom handlings, custom engine sounds, and more. These are faster, higher quality, and better for chases. 
+Revamped Safe Zones
+Our safe zones have been rebuilt from the ground up. Now, they will automatically put you into passive mode and disable it once you leave the zone. This eliminates VDM from safe zones and allows players to relax.
 
-- Spike Strips Revamp
-Spike strips have undergone a major revamp. The script now features FPS improvements, auto-deletion, new animations, cleaner prompts & UI, and more. To activate spikes, type /spikes at the trunk of a police vehicle, and you will automatically equip them.
+Sandy-Paleto Bridge
+A brand new bridge has been added that connects Sandy and Paleto Bay! This bridge is great for players looking to race or simply get to Paleto faster.
 
-- Jailing Improvements
-If a player attempts to leave and rejoin the server to avoid jail time, the server will place them back into jail to finish the time. (Staff & LEO jailing)
-Staff jailing no longer requires input for time. Staff must type /staffjail (id), and the server will place them in jail for 10 minutes. 
+Police Shields
+After months and months of requests, we have finally added a brand new police shield for our LEO. This shield covers the officer's entire body and enhances roleplay where officers need to breach.
 
-- Take Hostage
-Enhanced Civilians can now take other players hostage by using the "Take Hostage" button in the F5 menu.
+Revamped Taser
+Our police taser has been revamped for the first time. This new taser features a flashlight, UI, the ability to reload via a keybind, sound effects, and more! This new taser brings enhanced combat for our officers.
 
-- Shooting While Driving
-From now on, only players with the Certified Civilian rank can shoot out of a vehicle. A notification will display if a player attempts to shoot without having this rank.
+Realistic Weapon Wheel Icons
+We have added realistic weapon wheel icons after a ⁠community vote. These new icons display realistic weapons and bring a realistic feel to combat.
 
-- Misc Bug Fixes
-Tactical Weapons Pack 1 now has a new weapon, the CZ75. This replaces the broken banshee.
-Mobile Spikes for LEO now have a 100% success rate.
-Car clear notifications will now appear if a car clear was done near you.
+Revamped Police & Gang Blips
+For the first time ever, our gangs now have access to blips designed for their own gangs! We have also revamped our police blips from the ground up, allowing officers to view the direction an officer is facing, and their location regardless of how far away they are, smoother updates when moving and more.
+
+Misc Updates
+4 NEW booster vehicles
+The FBI building now has door locks
+U-Tool removal
+Oil-Rig Removal
+New map blips to display all interiors
+Redzones will now instantly respawn you
+New SWAT Tahoe for LEO
+Removed the LS and BC drug warehouses
+Misc optimization across all scripts
