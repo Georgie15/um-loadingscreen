@@ -1,36 +1,25 @@
-PSRP V4 RELEASE
+CASINO
+For the first time, PSRP now features a working casino! This casino is very similar to the GTA online version, but features a custom interior, drinking script at the bar, working elevator for penthouses, and much more! You have chips that you can bet that act as the currently inside the casino. 
 
-LAW ENFORCEMENT REVAMP
-Our excellent law enforcement departments have received a much-needed re-haul. With new vehicle models, new livery designs, and new uniforms, our departments in PSRP are some of the best that FiveM offers. There is no better time to join an LEO department!
+DRINKING SCRIPT
+A functional drinking script is now located at the casino bar! This drinking script has realistic effects such as passing out, puking, drunk driving, and more! This is only located at the casino for now and will be added into other areas in the future.
 
-SKATEBOARDS
-Skateboards are now in-game! We have created a skateboard script allowing you to spawn and ride a skateboard. Type /skateboard and skateboard will appear in your hand with a prompt.
+REVAMPED POLICE STATIONS
+All police stations in-game have been revamped! These new stations are now lighter on your game, feature realistic interiors and more. Now, the Mission Row, Grapeseed, and Paleto stations allow civilians to walk inside the lobby to speak to officers/make reports. The lobbies were previously locked, but you can now enter and speak to officers.
 
-PIGGY BACK
-Now, you can piggyback with a friend! Type /piggyback in chat near another play, and you can run around while riding the back of another player!
+CAR DYNO
+You can now use a realistic dyno machine to test the capabilities of your vehicle! Simply go to any of our custom mechanic shops, park your vehicle over the machine, and begin. This also features a TV/monitor stand that updates the results while the machine is live.
 
-GUN STORE REVAMP
-Our gun stores have been a staple in reducing RDM and making the weapon experience realistic. Now, all gun stores feature a custom interior, and weapons will now appear on the counter instead of the wall!
+SANDY SHORES REVAMP
+Sandy is typically filled with trolls, so we've decided to revamp it and bring new interiors! Now, there is a burger shot, clinic center, bank, law office, liquor store, & motel exterior revamp! Now, you're able to roleplay in different locations, encouraging in-depth roleplay to cut down on the trolls.
 
-YELLOW JACK REVAMP
-After a community vote, we have decided to bring back the OG style of the Yellow Jack. Not only does the original style come back, but a second floor has been revamped to feature a rustic style for an even better roleplay experience.
+SEWER TUNNELS
+A sewer network is now in-game near grove! There are currently 2 blip markers where you can enter the sewer that leads into a central network with a massive interior! This area is great if you're looking to explore and create scenes underground.
 
-REPAIR SHOP REVAMP
-Repairing your vehicle used to be a simple command, and you'd continue driving. Now, this experience is in-depth! You can type /repair at any mechanic shop, and an NPC will spawn and repair your engine. This brings a realistic experience when repairing your vehicle, instead of typing a command and driving away.
-
-CRASHING PHYSICS
-Crashing your vehicle is no longer the same. Now, if you launch your car off a high area and land, tires will fall off your vehicle, making it harder to drive! This creation brings an even better realistic experience when crashing your car.
-
-MISC UPDATES
-- Sandy PD is now back.
-- Legion gun store is now open to the public.
-- LEO can now select a player before cuffing & dragging.
-- Cuffing & dragging has new animations.
-- Enhanced Civilian can now seat players through the F5 menu.
-- The loading screen has been revamped entirely.
-- Mass DVs will now show the total amount of cars deleted.
-- Pushing vehicles is now smoother with a revamped version.
-- Players can now save a wheel position when exiting. Hold ctrl, position the wheel & exit.
-- Safe zones now have a green circle on the map.
-- Major performance boost at Grove with the removal of the interiors.
-- Major performance boost in Sandy & Paleto with the removal of motels.
+Misc Updates
+A wind farm has been added in the Vinewood Mountains.
+A cluckin bell interior has been added near rockford.
+A saloon has been added in Paleto.
+A vineyard interior has been added near the vinewood mountains.
+Working elevators can be found inside the casino & MRPD.
+Removed the drift tires script at mechanic shops, replaced with dyno.
