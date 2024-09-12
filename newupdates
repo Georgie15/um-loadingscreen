@@ -1,34 +1,38 @@
-🌴  SUMMER UPDATE 🌴
-The massive PSRP summer update is now live in-game! Below, you'll find a quick summary of each new change. As the summer goes on, we will continue releasing more and more updates, catered around what the players want.
+⚒️  General Updates ⚒️
+Automatic Plate Checker
+LEO can now automatically check if a player's vehicle is in the CAD, any active BOLOs, as well as the player's name, vehicle history, etc. If the vehicle is in the CAD, additional information will display. If it's not, it will tell you they are not registered. Simply use the "plate lock" keybind to activate this process.
 
-🛻  Realistic Off-Road Handling 🛻 
-Vehicles that are not in the off-road or SUV category now struggle driving off-road will stiffer handling, weaker brakes, and more.
-Realistic handling and the potential to get stuck in sand/dirt is now possible.
+Functional Scuba Gear
+The scuba mask (#42 in glasses) will now let you go under water without having to worry about air. You can also activate a scuba flash light by doing /togglescuba to let you see under water. Whitelisted LEO can now use this for marine as well.
 
-🛞  Realistic Tire Smoke 🛞
-All cars now have realistic tire smoke that builds up as you do a burnout. This changes based on your tire smoke color and there is no need to visual packs anymore!
+Spike Strips Improvements
+LEO spikes now deploy instantly instead of the previous animation, they will also remove instantly instead of individually.
 
-🏙️  Paleto Bay Improvements 🏙️
-Paleto Bay now features a new mechanic shop that has replaced the dealership. This shop features working lifts, dyno tune, a melee only zone, and more.
-SAFR now has an interior for the fire station as we removed the SADOT tow yard.
-Barriers now separate the road in order to drastically reduce VDM and GTA driving. Several U-turns can be found throughout the barrier.
+Persistent Flashlights
+Now in-game, your flashlight will stay on even if your weapon is down.
 
-📺  Movie Theater and Working TVs 📺
-A massive movie theater is now located in LS near the pacific bank with working screens. There are 5 theater rooms that feature realistic interiors.
-All TV models in-game now function. Simply go near a TV, press E, and follow the promps on your screen. You can play YouTube and Twitch media.
+Taser Update
+Now in-game, your weapon will drop out of your hand when tased by Whitelisted LEO. Once the weapon is on the ground, it can be "cleared" when near it.
 
-🗺️  Blaine County New Maps 🗺️
-Several Roxwood mansions now feature working interiors, and several other bug fixes.
-Harmony now has a brand new mechanic shop, 24/7, working gas pumps, and more.
-There is a brand new bridge connecting Sandy and Paleto Bay. This bridge features a rest stop, exit ramps, and more.
+LEO Health Increase
+Whitelisted LEO will now receive full GTA armor when they revive or respawn, giving them nearly double health.
 
-⚒️  Misc Updates ⚒️
-Weapons now drop out of your hand when tased by a LEO. LEO can clear these weapons from the server by pressing E on the ground.
-Players are now knocked out after being punched 10 times.
-Hiding a car trunk now allows you to move your camera to look around.
-Brand new court house is located at the school with offices, several court rooms, and much more.
-Working CCTV cameras are coming soon to all banks and other interiors.
-SADOT now has a working section to place props through the F5 menu.
-SAFR has access to the F5 toolbox again.
-Respawn times have been increased +15 seconds.
-LEO can now jail players based on time. A progress bar also appears for the civilian to show how much time is left.
+New ID Card Features
+You can now view your own id or show players near you using the /showid command.
+
+Revamped Hospitalization
+Whitelisted LEO will now hospitalize dead bodies at LEO scenes. All hospitalizations are 10 minutes and take you to the prison's infirmary room.
+(This change was made to reduce deaths in LEO scenes and force people to value their lives now that dying is more time than going to prison)
+
+EasyAdmin Improvements
+Staff jails, warnings, kicks, and bans are now stored in the server database to enable staff to view your punishment history in-game.
+Staff can now view a player's punishment history in easyadmin to view punishments over the last 7d. (Starting from today)
+The UI for the /staffjail should have an input now, that has the option to do 1-20 community tasks. (Check SOP for new rules)
+Management Team now has the ability to unstaffjail players.
+Players cannot type/open chat or spawn vehicles through F9 while in staff jail.
+Players cannot shoot or spawn vehicles through F9 while frozen.
+
+LEO Jailing Improvements
+Added 5 min cooldown for normal jailing.
+Management Team can unjail players from prison.
+Max jail time is now 360 months instead of 3600.
